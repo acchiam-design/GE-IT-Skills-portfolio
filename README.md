@@ -2,6 +2,33 @@
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/24371e03-42d4-473f-9edd-affa34bd8e90" />
 
+# Hi, I'm Nicca Chiam 👋
+
+Welcome to my GitHub profile!
+
+## About Me
+
+🌱 I enjoy exploring new places, discovering new experiences, and learning something new every day.
+
+🍳 I love cooking, hiking, going out, and finding inspiration from the world around me.
+
+## Skills & Strengths
+
+- 🗓️ Planning and organizing outings
+- ⏳ Time management
+- 🧭 Exploring and adapting to new environments
+- ✨ Creating memorable experiences
+
+## Interests
+
+- 🍽️ Cooking & trying new recipes
+- 🏞️ Hiking and outdoor adventures
+- 🌍 Traveling and exploring places
+- 💡 Discovering new ideas and experiences
+
+Thanks for visiting my profile! 😊
+
+<br>
 
 ### The Samal Sustainable Tourism Improvement System
 
@@ -23,6 +50,7 @@ Format: develop 3 actionable plans for each senario, that are sustainable and en
 - **Engine Used:** Gemini 3.5 Thinking
 - **Visual Prompt:** "A minimalist vector logo for "Samal Island Sustainable Tourism Growth Plan". The design features a stylized fusion of a tropical leaf and a gentle ocean wave, seamlessly forming a subtle letter "S". Clean lines, flat design, modern, and professional. Color palette: Emerald green, deep teal, and a touch of warm sand gold. White background, corporate yet eco-friendly, high-end sustainable tourism branding. --no photo realistic shading --v 6.0 
 
+<br>
 
 ### Literature Verification Log
 #### Topic: Mindanao Growth and Development Through Infrastructure Investments 
@@ -36,6 +64,7 @@ I prompted an AI discovery tool to summarize recent literature on the Mindanao g
 #### 2. Critical Reflection on Tool Limitations 
 “While the AI platform performed well and used valid data for its answers, the product was lacking in comparison of given data in the articles."
 
+<br>
 
 ### Data Analytics & Visual Report
 
