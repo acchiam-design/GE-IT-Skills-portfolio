@@ -2,7 +2,7 @@
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/24371e03-42d4-473f-9edd-affa34bd8e90" />
 
-# Hi, I'm Nicca Chiam 👋
+# Hi, I'm Anicca Chiam 👋
 
 Welcome to my GitHub profile!
 
