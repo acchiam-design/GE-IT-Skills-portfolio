@@ -26,6 +26,8 @@ Welcome to my GitHub profile!
 - 🌍 Traveling and exploring places
 - 💡 Discovering new ideas and experiences
 
+explain branding and different activities chuchu
+
 Thanks for visiting my profile! 😊
 
 <br>
