@@ -32,6 +32,8 @@ Thanks for visiting my profile! 😊
 
 <br>
 
+image
+
 # ✨ Sussy But Classy ✨
 
 ## 🌎 Wear the Change, Support the Future
@@ -41,19 +43,7 @@ Thanks for visiting my profile! 😊
 Sussy But Classy is a sustainable fashion brand that blends creativity, style, and responsibility through mindful and eco-conscious fashion. We believe fashion should express individuality while creating a positive impact on the environment.
 
 **Brand Tagline:**  
-> Style with purpose. Fashion for you, not at the cost of the Earth.
-
----
-
-## 🎨 Design Showcase
-
-### About Us Page
-
-![Sussy But Classy About Us Design](./images/about-us.png)
-
-### Design Reflection
-
-The design focuses on combining sustainability with a bold and expressive visual identity. The vibrant blue and red color palette represents confidence, creativity, and passion while keeping the message of environmental responsibility clear. The handwritten typography and playful elements create a youthful yet classy feel that matches the brand’s personality.
+Sussy but Classy, Thoughful Style for a Hopeful Smile
 
 ---
 
@@ -72,17 +62,9 @@ We aim to encourage conscious fashion choices by creating designs that value bot
 - 🌎 Environmental Responsibility
 - ✨ Confidence Through Style
 
----
+  ### The Design
 
-## 📌 Projects
-
-### Sustainable Fashion Website Design
-
-**Purpose:**  
-A brand website concept that introduces Sussy But Classy’s identity, mission, and sustainable approach to fashion.
-
-**Reflection:**  
-This project was designed to make sustainability feel modern, exciting, and approachable. The layout balances visual creativity with clear communication, ensuring that the brand’s message remains the focus.
+The design focuses on combining sustainability with a bold and expressive visual identity. The vibrant blue and red color palette represents confidence, creativity, and passion while keeping the message of environmental responsibility clear. The handwritten typography and playful elements create a youthful yet classy feel that matches the brand’s personality.
 
 <br>
 
