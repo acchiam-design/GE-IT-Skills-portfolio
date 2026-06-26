@@ -37,18 +37,15 @@ Welcome to my GitHub profile!
 
 # ✨ Sussy But Classy ✨
 
-## 🌎 Wear the Change, Support the Future
+## Thoughful Style for a Hopeful Smile :)
 
 ### About the Brand
 
 Sussy But Classy is a sustainable fashion brand that blends creativity, style, and responsibility through mindful and eco-conscious fashion. We believe fashion should express individuality while creating a positive impact on the environment.
 
-**Brand Tagline:**  
-Sussy but Classy, Thoughful Style for a Hopeful Smile
-
 ## 💡 Our Mission
 
-Small choices create an impact, so keep it Sussy but Classy.
+Small choices create an impact, so keep it Sussy but Classy. Wear the Change, Support the Future
 
 We aim to encourage conscious fashion choices by creating designs that value both style and sustainability. Every piece represents a step toward a more responsible and fashionable future.
 
@@ -62,7 +59,6 @@ We aim to encourage conscious fashion choices by creating designs that value bot
 ### The Design
 
 The design focuses on combining sustainability with a bold and expressive visual identity. The vibrant blue and red color palette represents confidence, creativity, and passion while keeping the message of environmental responsibility clear. The handwritten typography and playful elements create a youthful yet classy feel that matches the brand’s personality.
-
 
 ---
 <br>
