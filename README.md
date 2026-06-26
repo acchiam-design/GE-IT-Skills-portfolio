@@ -26,10 +26,6 @@ Welcome to my GitHub profile!
 - 🌍 Traveling and exploring places
 - 💡 Discovering new ideas and experiences
 
-explain branding and different activities chuchu
-
-Thanks for visiting my profile! 😊
-
 <br>
 
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/ab8629a5-d657-4d55-b703-2cccd40f1fd0" />
@@ -48,15 +44,11 @@ Sussy But Classy is a sustainable fashion brand that blends creativity, style, a
 **Brand Tagline:**  
 Sussy but Classy, Thoughful Style for a Hopeful Smile
 
----
-
 ## 💡 Our Mission
 
 Small choices create an impact, so keep it Sussy but Classy.
 
 We aim to encourage conscious fashion choices by creating designs that value both style and sustainability. Every piece represents a step toward a more responsible and fashionable future.
-
----
 
 ## 🌱 Values
 
@@ -65,10 +57,11 @@ We aim to encourage conscious fashion choices by creating designs that value bot
 - 🌎 Environmental Responsibility
 - ✨ Confidence Through Style
 
-  ### The Design
+### The Design
 
 The design focuses on combining sustainability with a bold and expressive visual identity. The vibrant blue and red color palette represents confidence, creativity, and passion while keeping the message of environmental responsibility clear. The handwritten typography and playful elements create a youthful yet classy feel that matches the brand’s personality.
 
+---
 <br>
 
 ### The Samal Sustainable Tourism Improvement System
@@ -127,3 +120,6 @@ I prompted an AI discovery tool to summarize recent literature on the Mindanao g
 
 "The data shows that renewable energy production in major Mindanao cities increased from 2021–2025. However, waste generation also increased, showing that economic growth and urban development are creating more pressure on the environment.
 The results suggest that the issue is not only about population growth but also about whether cities have enough systems to manage the effects of development. As cities grow, LGUs should invest in better waste management, recycling programs, and sustainable infrastructure to support growth while protecting the environment."
+
+
+Thanks for visiting my profile! 😊
