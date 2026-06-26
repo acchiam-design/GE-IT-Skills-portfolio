@@ -32,6 +32,9 @@ Thanks for visiting my profile! 😊
 
 <br>
 
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/ab8629a5-d657-4d55-b703-2cccd40f1fd0" />
+
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/c2c406aa-461e-41a1-8a34-10a6cf14caf8" />
 
 
 # ✨ Sussy But Classy ✨
