@@ -19,14 +19,6 @@ Welcome to my GitHub profile!
 - 🧭 Exploring and adapting to new environments
 - ✨ Creating memorable experiences
 
-## Interests
-
-- 🍽️ Cooking & trying new recipes
-- 🏞️ Hiking and outdoor adventures
-- 🌍 Traveling and exploring places
-- 💡 Discovering new ideas and experiences
-
-
 ---
 <br>
 
