@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 - 🌍 Traveling and exploring places
 - 💡 Discovering new ideas and experiences
 
-<br>
+
 ---
 <br>
 
@@ -63,7 +63,7 @@ We aim to encourage conscious fashion choices by creating designs that value bot
 
 The design focuses on combining sustainability with a bold and expressive visual identity. The vibrant blue and red color palette represents confidence, creativity, and passion while keeping the message of environmental responsibility clear. The handwritten typography and playful elements create a youthful yet classy feel that matches the brand’s personality.
 
-<br>
+
 ---
 <br>
 
