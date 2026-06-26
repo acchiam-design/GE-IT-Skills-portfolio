@@ -37,7 +37,7 @@ Welcome to my GitHub profile!
 
 # ✨ Sussy But Classy ✨
 
-## Thoughful Style for a Hopeful Smile :)
+## Thoughful Style for a Hopeful Smile 😄
 
 ### About the Brand
 
