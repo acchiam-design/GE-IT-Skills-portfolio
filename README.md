@@ -32,7 +32,7 @@ Thanks for visiting my profile! 😊
 
 <br>
 
-image
+
 
 # ✨ Sussy But Classy ✨
 
